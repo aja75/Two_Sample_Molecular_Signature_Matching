@@ -1,0 +1,13 @@
+Index,Value
+Control Source,C:/Users/Jack/PycharmProjects/MSM/Z-1.csv
+Control DEG Format,Z-Score
+Control DEG Threshold,1.0
+Test DEG Format,Z-Score
+Test DEG Threshold,1.0
+Test Source,C:/Users/Jack/PycharmProjects/MSM/Z-2.csv
+DEG Overlap,0.10013333333333334
+Concordance,-0.013648468708388815
+n permutations,100
+p-value,0.4461905504265
+Significance Threshold,a<=0.05
+Significance,Not Significant
