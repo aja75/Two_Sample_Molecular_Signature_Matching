@@ -1,6 +1,17 @@
 # Two_Sample_Molecular_Signature_Matching
 Compare 2 Differential Expression Profiles in terms of their DEG Overlap % and Concordance validated by permutation
 ---
+## Before Using (Windows):
+1. If you want to compile, use auto-py-to-exe or an eqivalent (frontend.py is main)
+
+
+2. If you don't want to compile, make sure python and dependencies are installed (double click on frontend.py or run from python terminal):
+### Dependencies
+1. numpy
+2. pandas
+3. PySimpleGUI-4-foss
+4. matplotlib
+5. scipy
 
 ## How To Use:
 1. From Differential Expression (DE) files (use DEseq2, EdgeR, CuffDiff2, etc) select 2 different profiles
